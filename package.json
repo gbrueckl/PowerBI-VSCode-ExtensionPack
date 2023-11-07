@@ -1,0 +1,43 @@
+{
+"name": "powerbi-vscode-extensionpack",
+	"displayName": "Power BI VSCode Extension Pack",
+	"description": "Power BI Extension Pack for VSCode",
+	"version": "0.0.1",
+	"publisher": "GerhardBrueckl",
+	"icon": "resources/powerbi_extensionpack.png",
+	"author": {
+		"name": "Gerhard Brueckl"
+	},
+	"contributors": [
+		"Gerhard Brueckl"
+	],
+	"license": "MIT",
+	"homepage": "https://github.com/gbrueckl/PowerBI-VSCode-ExtensionPack/blob/master/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/gbrueckl/PowerBI-VSCode-ExtensionPack"
+	},
+	"bugs": {
+		"url": "https://github.com/gbrueckl/PowerBI-VSCode-ExtensionPack/issues",
+		"email": "powerbi-vscode@gbrueckl.at"
+	},
+	"qna": "https://github.com/gbrueckl/PowerBI-VSCode-ExtensionPack/issues",
+	"sponsor": {
+		"url": "https://github.com/sponsors/gbrueckl"
+	},
+	"engines": {
+		"vscode": "^1.82.0"
+	},
+	"galleryBanner": {
+		"color": "#0ea5ff",
+		"theme": "dark"
+	},
+	"categories": [
+		"Azure",
+		"Extension Packs",
+		"Other"
+	],
+  "extensionPack": [
+    "GerhardBrueckl.powerbi-vscode"
+  ]
+}
