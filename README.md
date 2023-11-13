@@ -13,6 +13,8 @@ This extension pack contains individual VSCode extensions to work with Power BI 
   * Run arbitrary REST API calls in a notebook using `%api` magic
   * Drag & Drop to run certain commands (e.g. drop a report on a dataset to rebind it)
   * GUI to manage Capacities, Gatways and Pipelines
+* [Data Table Renderers](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.vscode-data-table)
+  * To properly visualize results from Power BI Notebooks
 
 ## Want to see other extension added?
 
