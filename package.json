@@ -1,5 +1,5 @@
 {
-"name": "powerbi-vscode-extensionpack",
+	"name": "powerbi-vscode-extensionpack",
 	"displayName": "Power BI VSCode Extension Pack",
 	"description": "Power BI Extension Pack for VSCode",
 	"version": "0.0.1",
@@ -37,7 +37,8 @@
 		"Extension Packs",
 		"Other"
 	],
-  "extensionPack": [
-    "GerhardBrueckl.powerbi-vscode"
-  ]
+	"extensionPack": [
+		"GerhardBrueckl.powerbi-vscode",
+		"RandomFractalsInc.vscode-data-table"
+	]
 }
