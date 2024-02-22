@@ -2,7 +2,7 @@
 	"name": "powerbi-vscode-extensionpack",
 	"displayName": "Power BI VSCode Extension Pack",
 	"description": "Power BI Extension Pack for VSCode",
-	"version": "0.0.1",
+	"version": "0.2.0",
 	"publisher": "GerhardBrueckl",
 	"icon": "resources/powerbi_extensionpack.png",
 	"author": {
@@ -37,8 +37,22 @@
 		"Extension Packs",
 		"Other"
 	],
+	"keywords": [
+		"Power BI",
+		"PowerBI",
+		"Fabric",
+		"REST",
+		"API",
+		"TMDL",
+		"XMLA",
+		"TMSL",
+		"TOM",
+		"DAX"
+	],
 	"extensionPack": [
 		"GerhardBrueckl.powerbi-vscode",
-		"RandomFractalsInc.vscode-data-table"
+		"RandomFractalsInc.vscode-data-table",
+		"analysis-services.tmdl",
+		"jianfajun.dax-language"
 	]
 }
