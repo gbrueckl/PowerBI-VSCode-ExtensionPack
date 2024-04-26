@@ -2,7 +2,7 @@
 	"name": "powerbi-vscode-extensionpack",
 	"displayName": "Power BI VSCode Extension Pack",
 	"description": "Power BI Extension Pack for VSCode",
-	"version": "0.2.0",
+	"version": "0.3.0",
 	"publisher": "GerhardBrueckl",
 	"icon": "resources/powerbi_extensionpack.png",
 	"author": {
@@ -53,6 +53,7 @@
 		"GerhardBrueckl.powerbi-vscode",
 		"RandomFractalsInc.vscode-data-table",
 		"analysis-services.tmdl",
-		"jianfajun.dax-language"
+		"jianfajun.dax-language",
+		"GerhardBrueckl.onelake-vscode"
 	]
 }

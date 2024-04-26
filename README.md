@@ -20,6 +20,8 @@ This extension pack contains individual VSCode extensions to work with Power BI 
 * [DAX for Power BI](https://marketplace.visualstudio.com/items?itemName=jianfajun.dax-language)
   * Autocomplete for DAX functions
 * [Power Query / M Language](https://marketplace.visualstudio.com/items?itemName=PowerQuery.vscode-powerquery)
+* [OneLake VSCode](https://marketplace.visualstudio.com/items?itemName=GerhardBrueckl.onelake-vscode)
+  * Browse OneLake folders directly from the VSCode Explorer
   
 ## Want to see other extension added?
 
