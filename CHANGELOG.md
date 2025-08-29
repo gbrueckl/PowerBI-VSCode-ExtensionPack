@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.4.0
+
+-added - [Fabric Studio](https://marketplace.visualstudio.com/items?itemName=GerhardBrueckl.fabricstudio) by [GerhardBrueckl](https://marketplace.visualstudio.com/publishers/GerhardBrueckl)(me)
+
 ## 0.3.0
 
 -added - [OneLake VSCode](https://marketplace.visualstudio.com/items?itemName=GerhardBrueckl.onelake-vscode) by [GerhardBrueckl](https://marketplace.visualstudio.com/publishers/GerhardBrueckl)(me)
