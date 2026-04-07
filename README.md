@@ -1,1 +1,33 @@
-IyBQb3dlckJJIEV4dGVuc2lvbiBQYWNrIGZvciBWU0NvZGUKClRoaXMgZXh0ZW5zaW9uIHBhY2sgY29udGFpbnMgaW5kaXZpZHVhbCBWU0NvZGUgZXh0ZW5zaW9ucyB0byB3b3JrIHdpdGggUG93ZXIgQkkgYW5kIHJlbGF0ZWQgY29tcG9uZW50cyBsaWtlIFRNREwsIERBWCwgZXRjLgoKIyMgRXh0ZW5zaW9ucyBJbmNsdWRlZAoKKiBbUG93ZXJCSSBWU0NvZGVdKGh0dHBzOi8vbWFya2V0cGxhY2UudmlzdWFsc3R1ZGlvLmNvbS9pdGVtcz9pdGVtTmFtZT1HZXJoYXJkQnJ1ZWNrbC5wb3dlcmJpLXZzY29kZSkKICAqIEdVSSB0byBicm93c2UgeW91ciB3b3Jrc3BhY2UgYW5kIHJ1biBvcGVyYXRpb25zIGxpa2UgW3JlYmluZF0oaHR0cHM6Ly9sZWFybi5taWNyb3NvZnQuY29tL2VuLXVzL3Jlc3QvYXBpL3Bvd2VyLWJpL3JlcG9ydHMvcmViaW5kLXJlcG9ydC1pbi1ncm91cCksIFtjbG9uZV0oaHR0cHM6Ly9sZWFybi5taWNyb3NvZnQuY29tL2VuLXVzL3Jlc3QvYXBpL3Bvd2VyLWJpL3JlcG9ydHMvY2xvbmUtcmVwb3J0LWluLWdyb3VwKSwgLi4uCiAgKiBNb2RpZnkgUG93ZXIgQkkgZGF0YXNldHMgdXNpbmcgKipUTURMKioKICAqIFN1cHBvcnRzIFZTQ29kZSBhbmQgW3ZzY29kZS5kZXZdKGh0dHBzOi8vdnNjb2RlLmRldikKICAqIENvbm5lY3QgdG8gcmVtb3RlIHRlbmFudHMgd2hlcmUgeW91IGFyZSBpbnZpdGVkIGFzIGEgZ3Vlc3QgdXNlcgogICogUnVuIERBWCBxdWVyaWVzIGluIGEgbm90ZWJvb2sgYWdhaW5zdCB5b3VyIFBvd2VyIEJJIERhdGFzZXRzIHVzaW5nIGAlZGF4YCBtYWdpYwogICogUnVuIGFyYml0cmFyeSBSRVNUIEFQSSBjYWxscyBpbiBhIG5vdGVib29rIHVzaW5nIGAlYXBpYCBtYWdpYwogICogRHJhZyAmIERyb3AgdG8gcnVuIGNlcnRhaW4gY29tbWFuZHMgKGUuZy4gZHJvcCBhIHJlcG9ydCBvbiBhIGRhdGFzZXQgdG8gcmViaW5kIGl0KQogICogR1VJIHRvIG1hbmFnZSBDYXBhY2l0aWVzLCBHYXR3YXlzIGFuZCBQaXBlbGluZXMKKiBbVE1ETF0oaHR0cHM6Ly9tYXJrZXRwbGFjZS52aXN1YWxzdHVkaW8uY29tL2l0ZW1zP2l0ZW1OYW1lPWFuYWx5c2lzLXNlcnZpY2VzLlRNREwpCiAgKiBBIFZpc3VhbCBTdHVkaW8gQ29kZSBleHRlbnNpb24gdGhhdCBhZGRzIGxhbmd1YWdlIHN1cHBvcnQgZm9yIHRoZSBUYWJ1bGFyIE1vZGVsIERlZmluaXRpb24gTGFuZ3VhZ2UgKFRNREwpLgoqIFtEYXRhIFRhYmxlIFJlbmRlcmVyc10oaHR0cHM6Ly9tYXJrZXRwbGFjZS52aXN1YWxzdHVkaW8uY29tL2l0ZW1zP2l0ZW1OYW1lPVJhbmRvbUZyYWN0YWxzSW5jLnZzY29kZS1kYXRhLXRhYmxlKQogICogVG8gcHJvcGVybHkgdmlzdWFsaXplIHJlc3VsdHMgZnJvbSBQb3dlciBCSSBOb3RlYm9va3MKKiBbREFYIGZvciBQb3dlciBCSV0oaHR0cHM6Ly9tYXJrZXRwbGFjZS52aXN1YWxzdHVkaW8uY29tL2l0ZW1zP2l0ZW1OYW1lPWppYW5mYWp1bi5kYXgtbGFuZ3VhZ2UpCiAgKiBBdXRvY29tcGxldGUgZm9yIERBWCBmdW5jdGlvbnMKKiBbUG93ZXIgUXVlcnkgLyBNIExhbmd1YWdlXShodHRwczovL21hcmtldHBsYWNlLnZpc3VhbHN0dWRpby5jb20vaXRlbXM/aXRlbU5hbWU9UG93ZXJRdWVyeS52c2NvZGUtcG93ZXJxdWVyeSkKKiBbT25lTGFrZSBWU0NvZGVdKGh0dHBzOi8vbWFya2V0cGxhY2UudmlzdWFsc3R1ZGlvLmNvbS9pdGVtcz9pdGVtTmFtZT1HZXJoYXJkQnJ1ZWNrbC5vbmVsYWtlLXZzY29kZSkKICAqIEJyb3dzZSBPbmVMYWtlIGZvbGRlcnMgZGlyZWN0bHkgZnJvbSB0aGUgVlNDb2RlIEV4cGxvcmVyCiogW1Bvd2VyIEJJIE1vZGVsaW5nIE1DUCBTZXJ2ZXJdKGh0dHBzOi8vbWFya2V0cGxhY2UudmlzdWFsc3R1ZGlvLmNvbS9pdGVtcz9pdGVtTmFtZT1hbmFseXNpcy1zZXJ2aWNlcy5wb3dlcmJpLW1vZGVsaW5nLW1jcCkKICAqIE9mZmljaWFsIE1pY3Jvc29mdCBNQ1Agc2VydmVyIHRoYXQgYnJpbmdzIFBvd2VyIEJJIHNlbWFudGljIG1vZGVsaW5nIGNhcGFiaWxpdGllcyB0byBBSSBhZ2VudHMgKEdpdEh1YiBDb3BpbG90LCBldGMuKQogICogQnVpbGQgYW5kIG1vZGlmeSBzZW1hbnRpYyBtb2RlbHMgdXNpbmcgbmF0dXJhbCBsYW5ndWFnZSDigJQgY3JlYXRlL3VwZGF0ZSB0YWJsZXMsIGNvbHVtbnMsIG1lYXN1cmVzLCBhbmQgcmVsYXRpb25zaGlwcwogICogRXhlY3V0ZSBidWxrIG9wZXJhdGlvbnMgYXQgc2NhbGUgKG1hc3MgcmVuYW1pbmcsIHJlZmFjdG9yaW5nLCB0cmFuc2xhdGlvbnMsIFJMUyBydWxlcykgd2l0aCB0cmFuc2FjdGlvbiBzdXBwb3J0CiAgKiBXb3JrcyB3aXRoIGJvdGggUG93ZXIgQkkgRGVza3RvcCBhbmQgRmFicmljIHNlbWFudGljIG1vZGVscwogIAojIyBXYW50IHRvIHNlZSBvdGhlciBleHRlbnNpb24gYWRkZWQ/CgpQbGVhc2Ugb3BlbiBhIFB1bGwgUmVxdWVzdCBhbmQgSSB3aWxsIHZlcmlmeSBpZiBpdCBtZWV0cyB0aGUgcmVxdWlyZW1lbnRzLgo=
+# PowerBI Extension Pack for VSCode
+
+This extension pack contains individual VSCode extensions to work with Power BI and related components like TMDL, DAX, etc.
+
+## Extensions Included
+
+* [PowerBI VSCode](https://marketplace.visualstudio.com/items?itemName=GerhardBrueckl.powerbi-vscode)
+  * GUI to browse your workspace and run operations like [rebind](https://learn.microsoft.com/en-us/rest/api/power-bi/reports/rebind-report-in-group), [clone](https://learn.microsoft.com/en-us/rest/api/power-bi/reports/clone-report-in-group), ...
+  * Modify Power BI datasets using **TMDL**
+  * Supports VSCode and [vscode.dev](https://vscode.dev)
+  * Connect to remote tenants where you are invited as a guest user
+  * Run DAX queries in a notebook against your Power BI Datasets using `%dax` magic
+  * Run arbitrary REST API calls in a notebook using `%api` magic
+  * Drag & Drop to run certain commands (e.g. drop a report on a dataset to rebind it)
+  * GUI to manage Capacities, Gatways and Pipelines
+* [TMDL](https://marketplace.visualstudio.com/items?itemName=analysis-services.TMDL)
+  * A Visual Studio Code extension that adds language support for the Tabular Model Definition Language (TMDL).
+* [Data Table Renderers](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.vscode-data-table)
+  * To properly visualize results from Power BI Notebooks
+* [DAX for Power BI](https://marketplace.visualstudio.com/items?itemName=jianfajun.dax-language)
+  * Autocomplete for DAX functions
+* [Power Query / M Language](https://marketplace.visualstudio.com/items?itemName=PowerQuery.vscode-powerquery)
+* [OneLake VSCode](https://marketplace.visualstudio.com/items?itemName=GerhardBrueckl.onelake-vscode)
+  * Browse OneLake folders directly from the VSCode Explorer
+* [Power BI Modeling MCP Server](https://marketplace.visualstudio.com/items?itemName=analysis-services.powerbi-modeling-mcp)
+  * Official Microsoft MCP server that brings Power BI semantic modeling capabilities to AI agents (GitHub Copilot, etc.)
+  * Build and modify semantic models using natural language — create/update tables, columns, measures, and relationships
+  * Execute bulk operations at scale (mass renaming, refactoring, translations, RLS rules) with transaction support
+  * Works with both Power BI Desktop and Fabric semantic models
+
+## Want to see other extension added?
+
+Please open a Pull Request and I will verify if it meets the requirements.
