@@ -22,7 +22,12 @@ This extension pack contains individual VSCode extensions to work with Power BI 
 * [Power Query / M Language](https://marketplace.visualstudio.com/items?itemName=PowerQuery.vscode-powerquery)
 * [OneLake VSCode](https://marketplace.visualstudio.com/items?itemName=GerhardBrueckl.onelake-vscode)
   * Browse OneLake folders directly from the VSCode Explorer
-  
+* [Power BI Modeling MCP Server](https://marketplace.visualstudio.com/items?itemName=analysis-services.powerbi-modeling-mcp)
+  * Official Microsoft MCP server that brings Power BI semantic modeling capabilities to AI agents (GitHub Copilot, etc.)
+  * Build and modify semantic models using natural language — create/update tables, columns, measures, and relationships
+  * Execute bulk operations at scale (mass renaming, refactoring, translations, RLS rules) with transaction support
+  * Works with both Power BI Desktop and Fabric semantic models
+
 ## Want to see other extension added?
 
 Please open a Pull Request and I will verify if it meets the requirements.

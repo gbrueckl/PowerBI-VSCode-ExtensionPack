@@ -55,6 +55,7 @@
 		"analysis-services.tmdl",
 		"jianfajun.dax-language",
 		"GerhardBrueckl.onelake-vscode",
-		"GerhardBrueckl.fabricstudio"
+		"GerhardBrueckl.fabricstudio",
+		"analysis-services.powerbi-modeling-mcp"
 	]
 }
